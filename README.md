@@ -1,7 +1,7 @@
 # MSI001 Arduino Library
 
-The Mirics MSi001 integrated circuit (IC) is the world's first poly-band silicon tuner addressing multiple terrestrial broadcast standards. 
-This project is about an Arduino Library to control the MSI001 device.
+The MSi001 is a multi-mode tuner device compatible to many broadcast standards. It can receive most of digital and analog  signal including: AM, FM, DRM, ISDB and DAB. This project is about an Arduino Library to control the MSI001 device.
+
 
 UNDER CONSTRUCTION.... 
 
